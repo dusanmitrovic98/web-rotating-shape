@@ -22,3 +22,4 @@ body {
     animation: spin 5s linear infinite, colorChange 10s ease-in-out infinite;
 }
 
+@keyframes spin {
